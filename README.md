@@ -1,2 +1,2 @@
-# mets-table
-standings for the Mets
+# NL East Standings
+standings for the MLB
